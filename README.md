@@ -121,7 +121,7 @@ Here are some ideas to get you started:
         <img src="https://www.chartjs.org/media/logo-title.svg" alt="chart.js" width="40" height="40"/>
     </a>
     <a href="https://apexcharts.com/" target="_blank" rel="noreferrer">
-        <img src="https://avatars.githubusercontent.com/u/42247328?s=200&v=4" alt="apexcharts" width="40" height="40"/>
+        <img src="https://avatars.githubusercontent.com/u/37190687?s=200&v=4" alt="apexcharts" width="40" height="40"/>
     </a>
 </div>
 
