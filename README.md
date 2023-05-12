@@ -39,16 +39,16 @@ Here are some ideas to get you started:
 </div>
 <div>
     <h3 align="left">Librerías y Frameworks:</h3>
-  <img src="https://portfolio-thony.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FVuforia.133a40bf.jpg&w=128&q=75" alt="csharp" width="128" height="128"/> 
+  <img src="https://portfolio-thony.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FVuforia.133a40bf.jpg&w=128&q=75" alt="csharp" width="80" height="80"/> 
      
-   <img src="https://portfolio-thony.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FUnity.d3f064c7.jpg&w=128&q=75" alt="csharp" width="128" height="128"/>
-   <img src="https://portfolio-thony.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FFigma.d177f2ee.jpg&w=128&q=75" alt="csharp" width="128" height="128"/>
-   <img src="https://portfolio-thony.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FGit.6779426c.jpg&w=128&q=75" alt="csharp" width="128" height="128"/>
-   <img src="https://portfolio-thony.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FGithub.8bed1450.jpg&w=128&q=75" alt="csharp" width="128" height="128"/>
-  <img src="https://portfolio-thony.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FPhotoshop.46eedd4e.jpg&w=128&q=75" height="128"/>
-  <img src="https://portfolio-thony.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fuml.9cb49a29.jpg&w=128&q=75" alt="csharp" width="128" height="128"/>
-  <img src="https://portfolio-thony.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FAppInventor.cd988555.jpg&w=128&q=75" alt="csharp" width="128" height="128"/>
-   <img src="https://portfolio-thony.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FMixamo.34dcb46c.jpg&w=128&q=75" alt="csharp" width="128" height="128"/>
+   <img src="https://portfolio-thony.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FUnity.d3f064c7.jpg&w=128&q=75" alt="csharp" width="80" height="80"/>
+   <img src="https://portfolio-thony.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FFigma.d177f2ee.jpg&w=128&q=75" alt="csharp" width="80" height="80"/>
+   <img src="https://portfolio-thony.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FGit.6779426c.jpg&w=128&q=75" alt="csharp" width="80" height="80"/>
+   <img src="https://portfolio-thony.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FGithub.8bed1450.jpg&w=128&q=75" alt="csharp" width="80" height="80"/>
+  <img src="https://portfolio-thony.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FPhotoshop.46eedd4e.jpg&w=128&q=75" width="80"  height="80"/>
+  <img src="https://portfolio-thony.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fuml.9cb49a29.jpg&w=128&q=75" alt="csharp" width="80" height="80"/>
+  <img src="https://portfolio-thony.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FAppInventor.cd988555.jpg&w=128&q=75" alt="csharp" width="80" height="80"/>
+   <img src="https://portfolio-thony.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FMixamo.34dcb46c.jpg&w=128&q=75" alt="csharp" width="80" height="80"/>
  
  </div>
 
