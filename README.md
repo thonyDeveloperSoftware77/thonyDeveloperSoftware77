@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+   <div class="loader">
+        <img src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif" alt="Cargando...">
+    </div>s
