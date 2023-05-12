@@ -53,45 +53,6 @@ Here are some ideas to get you started:
  </div>
  <div >
 
-        <img src="https://portfolio-thony.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnext.023b278b.jpg&w=1920&q=75" alt="" sizes="100vw" width="257" height="147" decoding="async" data-nimg="1" loading="lazy" style="color:
-        transparent; width: 100%; height: auto;"></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://scrollrevealjs.org/" alt="" sizes="100vw" width="254" height="312" decoding="async" data-nimg="1" loading="lazy"
-            style="color: transparent; width: 100%; height: auto;"></a><a href="https://scrollrevealjs.org/"
-        target="_blank" rel="noreferrer">
-        <img alt="" sizes="100vw" width="257" height="151" decoding="async" data-nimg="1" loading="lazy"
-            style="color: transparent; width: 100%; height: auto;"></a><a href="https://getbootstrap.com/"
-        target="_blank" rel="noreferrer">
-        <img alt="" sizes="100vw" width="257" height="147" decoding="async" data-nimg="1" loading="lazy"
-            style="color: transparent; width: 100%; height: auto;"></a><a href=" https://nextjs.org/" target="_blank"
-        rel="noreferrer">
-        <img alt="" sizes="100vw" width="535" height="310" decoding="async" data-nimg="1" loading="lazy"
-            style="color: transparent; width: 100%; height: auto;"></a><a href="https://axios-http.com/" target="_blank"
-        rel="noreferrer">
-        <img alt="" sizes="100vw" width="257" height="147" decoding="async" data-nimg="1" loading="lazy"
-            style="color: transparent; width: 100%; height: auto;"></a><a href="https://graphql.org/" target="_blank"
-        rel="noreferrer">
-        <img alt="" sizes="100vw" width="257" height="147" decoding="async" data-nimg="1" loading="lazy"
-            style="color: transparent; width: 100%; height: auto;"></a><a href="https://threejs.org/" target="_blank"
-        rel="noreferrer">
-        <img alt="" sizes="100vw" width="257" height="147" decoding="async" data-nimg="1" loading="lazy"
-            style="color: transparent; width: 100%; height: auto;"></a><a
-        href="https://docs.pmnd.rs/react-three-fiber/getting-started/introduction" target="_blank" rel="noreferrer">
-        <img alt="" sizes="100vw" width="257" height="147" decoding="async" data-nimg="1" loading="lazy"
-            style="color: transparent; width: 100%; height: auto;"></a><a href="https://github.com/pmndrs/drei"
-        target="_blank" rel="noreferrer">
-        <img alt="" sizes="100vw" width="257" height="147" decoding="async" data-nimg="1" loading="lazy"
-            style="color: transparent; width: 100%; height: auto;"></a><a
-        href="https://www.npmjs.com/package/react-force-graph" target="_blank" rel="noreferrer">
-        <img alt="" sizes="100vw" width="257" height="147" decoding="async" data-nimg="1" loading="lazy"
-            style="color: transparent; width: 100%; height: auto;"></a><a href="https://apexcharts.com/" target="_blank"
-        rel="noreferrer">
-        <img alt="" sizes="100vw" width="257" height="147" decoding="async" data-nimg="1" loading="lazy"
-            style="color: transparent; width: 100%; height: auto;"></a><a
-        href="https://www.npmjs.com/package/gltf-pipeline" target="_blank" rel="noreferrer">
-        <img alt="" sizes="100vw" width="257" height="147" decoding="async" data-nimg="1" loading="lazy"
-            style="color: transparent; width: 100%; height: auto;"></a><a href="https://jquery.com/" target="_blank"
-        rel="noreferrer">
-        <img alt="" sizes="100vw" width="257" height="147" decoding="async" data-nimg="1" loading="lazy"
-            style="color: transparent; width: 100%; height: auto;"></a>
+        <img src="https://portfolio-thony.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnext.023b278b.jpg&w=1920&q=75" alt="" sizes="100vw" width="257" height="147" decoding="async" data-nimg="1" loading="lazy" style="color: transparent; width: 100%; height: auto;"></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         
 </div>
