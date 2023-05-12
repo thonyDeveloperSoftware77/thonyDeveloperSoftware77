@@ -51,7 +51,7 @@ Here are some ideas to get you started:
    <img src="https://portfolio-thony.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FMixamo.34dcb46c.jpg&w=128&q=75" alt="csharp" width="80" height="80"/>
  
  </div>
- <div class="gridContainer"><a href="https://scrollrevealjs.org/" target="_blank" rel="noreferrer">
+ <div >
 
         <img src="https://portfolio-thony.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnext.023b278b.jpg&w=1920&q=75" alt="" sizes="100vw" width="257" height="147" decoding="async" data-nimg="1" loading="lazy" style="color:
         transparent; width: 100%; height: auto;"></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer">
