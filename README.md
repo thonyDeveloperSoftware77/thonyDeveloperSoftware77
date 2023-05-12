@@ -52,10 +52,6 @@ Here are some ideas to get you started:
  
  </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thonydevelopersoftware77&label=Profile%20views&color=258ed0&style=flat-square" alt="thonydevelopersoftware77" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thonydevelopersoftware77" alt="thonydevelopersoftware77" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://portfolio-thony.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://portfolio-thony.vercel.app/" height="30" width="40" /></a>
