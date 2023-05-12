@@ -53,6 +53,6 @@ Here are some ideas to get you started:
  </div>
  <div >
 
-        <img src="https://portfolio-thony.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnext.023b278b.jpg&w=1920&q=75" alt="" sizes="100vw" width="257" height="147" decoding="async" data-nimg="1" loading="lazy" style="color: transparent; width: 100%; height: auto;"></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://portfolio-thony.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnext.023b278b.jpg&w=1920&q=75">
         
 </div>
