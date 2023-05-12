@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="/https://portfolio-thony.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://portfolio-thony.vercel.app/" height="30" width="40" /></a>
+<a href="https://portfolio-thony.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://portfolio-thony.vercel.app/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Front-end:</h3>
@@ -86,7 +86,7 @@ Here are some ideas to get you started:
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
     </a>
     <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+        <img src="https://youteam.io/blog/wp-content/uploads/2022/04/expressjs_logo.png" alt="express" width="40" height="40"/>
     </a>
 </div>
 
@@ -134,7 +134,7 @@ Here are some ideas to get you started:
         <img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" alt="Electron" width="40" height="40"/>
     </a>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/vercel/next.js/canary/www/public/static/favicon/favicon.ico" alt="Next.js" width="40" height="40"/>
+        <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="Next.js" width="40" height="40"/>
     </a>
 </div>
 
