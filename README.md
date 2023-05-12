@@ -14,7 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <h1>◽🔹🟦Bienvenido a mi peril de GitHub!!🟦🔹◽</h1>
+    <p>Mi experiencia en el desarrollo web, aplicaciones web con tecnologías actuales, diseño UI, edición, aplicaciones móviles multiplataforma con React Native, así como en aplicaciones con interfaces en Java, Matlab, arquitectura MVC con punto net y C#, estructuras de datos, Bases de datos, creación de Apis y hacking ético me han permitido desarrollar habilidades importantes en el mundo de la tecnología. </p>
+  </div>
+  <div>
+     <img src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif" alt="Cargando...">
+  </div>
+</div>
 
-   <div class="loader">
-        <img src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif" alt="Cargando...">
-    </div>s
