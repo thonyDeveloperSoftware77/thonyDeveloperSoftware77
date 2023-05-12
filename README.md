@@ -38,7 +38,7 @@ Here are some ideas to get you started:
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 </div>
 <div>
-    <h3 align="left">Librerías y Frameworks:</h3>
+    <h3 align="left">Herramientas:</h3>
   <img src="https://portfolio-thony.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FVuforia.133a40bf.jpg&w=128&q=75" alt="csharp" width="80" height="80"/> 
      
    <img src="https://portfolio-thony.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FUnity.d3f064c7.jpg&w=128&q=75" alt="csharp" width="80" height="80"/>
