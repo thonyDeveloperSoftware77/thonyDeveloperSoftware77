@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div style="display: flex; flexDirection: row;">
-  <div style="flex: 1;">
+  <div >
     <h1>◽🔹🟦Bienvenido a mi peril de GitHub!!🟦🔹◽</h1>
     <p>Mi experiencia en el desarrollo web, aplicaciones web con tecnologías actuales, diseño UI, edición, aplicaciones móviles multiplataforma con React Native, así como en aplicaciones con interfaces en Java, Matlab, arquitectura MVC con punto net y C#, estructuras de datos, Bases de datos, creación de Apis y hacking ético me han permitido desarrollar habilidades importantes en el mundo de la tecnología. </p>
   </div>
