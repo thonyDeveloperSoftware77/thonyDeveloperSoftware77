@@ -61,95 +61,42 @@ Here are some ideas to get you started:
 <a href="https://portfolio-thony.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://portfolio-thony.vercel.app/" height="30" width="40" /></a>
 </p>
 
-  | Front-end | Back-end | Desarrollo móvil | 
+| Front-end | Back-end | Desarrollo móvil | 
 | --------- | -------- | -----------|
-| <h3 align="left">Front-end:</h3><div><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a></div> | <h3 align="left">Back-end:</h3><div><a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://youteam.io/blog/wp-content/uploads/2022/04/expressjs_logo.png" alt="express" width="40" height="40"/></a></div>| <a href="https://ionicframework.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original-wordmark.svg" alt="ionic" width="40" height="40"/></a><a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="react native" width="40" height="40"/></a></div>
-| Database |
-| -------- |
-| <h3 align="left">Database:</h3><div><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sql server" width="40" height="40"/>
-  
-</div>
-  
-  
-  
-  
-  
-<h3 align="left">Front-end:</h3>
-<div>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-    </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-    </a>
-</div>
-
-<h3 align="left">Back-end:</h3>
-<div>
-    <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    </a>
-    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://youteam.io/blog/wp-content/uploads/2022/04/expressjs_logo.png" alt="express" width="40" height="40"/>
-    </a>
-</div>
-
-<h3 align="left">Desarrollo móvil:</h3>
-<div>
-    <a href="https://ionicframework.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original-wordmark.svg" alt="ionic" width="40" height="40"/>
-    </a>
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-        <img src="https://reactnative.dev/img/header_logo.svg" alt="react native" width="40" height="40"/>
-    </a>
-</div>
-
-<h3 align="left">Database:</h3>
-<div>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-    </a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sql server" width="40" height="40"/>
-    </a>
-</div>
-
-
-
+| <h3 align="left">Front-end:</h3><div><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="80" height="80"/></a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="80" height="80"/></a></div> | <h3 align="left">Back-end:</h3><div><a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="80"/></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://youteam.io/blog/wp-content/uploads/2022/04/expressjs_logo.png" alt="express" width="80" height="80"/></a></div>| <a href="https://ionicframework.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original-wordmark.svg" alt="ionic" width="80" height="80"/></a><a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="react native" width="80" height="80"/></a></div>
+| Database | Visualización de datos | Frameworks|
+| <h3 align="left">Database:</h3><div><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" height="80"/></a><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sql server" width="80" height="80"/></div>
+|
 <h3 align="left">Visualización de datos:</h3>
 <div>
     <a href="https://d3js.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/d3js/d3js-icon.svg" alt="d3.js" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/d3js/d3js-icon.svg" alt="d3.js" width="80" height="80"/>
     </a>
     <a href="https://www.chartjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.chartjs.org/media/logo-title.svg" alt="chart.js" width="40" height="40"/>
+        <img src="https://www.chartjs.org/media/logo-title.svg" alt="chart.js" width="80" height="80"/>
     </a>
     <a href="https://apexcharts.com/" target="_blank" rel="noreferrer">
-        <img src="https://avatars.githubusercontent.com/u/37190687?s=200&v=4" alt="apexcharts" width="40" height="40"/>
+        <img src="https://avatars.githubusercontent.com/u/37190687?s=200&v=4" alt="apexcharts" width="80" height="80"/>
     </a>
-</div>
+</div> |
+
 
 <h3 align="left">Frameworks:</h3>
 <div>
     <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="80" height="80"/>
     </a>
     <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" alt="Electron" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" alt="Electron" width="80" height="80"/>
     </a>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://media.graphassets.com/VKHHNvEETYqZRkqgjybc" alt="Next.js" width="40" height="40"/>
+        <img src="https://media.graphassets.com/VKHHNvEETYqZRkqgjybc" alt="Next.js" width="80" height="80"/>
     </a>
-</div>
+</div>|
+
+
+
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thonydevelopersoftware77&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="thonydevelopersoftware77" /></p>
