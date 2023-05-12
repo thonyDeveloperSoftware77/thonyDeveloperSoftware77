@@ -24,8 +24,8 @@ Here are some ideas to get you started:
   </div>
 </div>
 
-<div>
-  <h3 align="left">Languages and Tools:</h3>
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
+  <h3 align="left">Lenguajes de programación usados:</h3>
     <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
       </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
@@ -37,4 +37,9 @@ Here are some ideas to get you started:
       </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 </div>
+<div>
+    <h3 align="left">Librerías y Frameworks:</h3>
+  <img src="https://portfolio-thony.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FVuforia.133a40bf.jpg&w=128&q=75" alt="csharp" width="40" height="40"/> 
+      
+ </div>
 
