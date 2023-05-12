@@ -134,7 +134,7 @@ Here are some ideas to get you started:
         <img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" alt="Electron" width="40" height="40"/>
     </a>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="Next.js" width="40" height="40"/>
+        <img src="https://media.graphassets.com/VKHHNvEETYqZRkqgjybc" alt="Next.js" width="40" height="40"/>
     </a>
 </div>
 
