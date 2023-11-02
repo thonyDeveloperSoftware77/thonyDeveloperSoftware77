@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div style="display: flex; flex-direction: row;">
   <div >
     <h1>◽🔹🟦Bienvenido a mi peril de GitHub!!🟦🔹◽</h1>
-    <p>Mi experiencia en el desarrollo web, aplicaciones web con tecnologías actuales, diseño UI, edición, aplicaciones móviles multiplataforma con React Native, así como en aplicaciones con interfaces en Java, Matlab, arquitectura MVC con punto net y C#, estructuras de datos, Bases de datos, creación de Apis y hacking ético me han permitido desarrollar habilidades importantes en el mundo de la tecnología. </p>
+    <p>Mi experiencia en el desarrollo de sitios web, aplicaciones web con tecnologías actuales, diseño UI, edición, aplicaciones móviles multiplataforma con React Native, uso de arquitecturas y hacking ético me han permitido desarrollar habilidades competitivas en el mundo de la tecnología. </p>
   </div>
   <div>
      <img src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif" alt="Cargando...">
